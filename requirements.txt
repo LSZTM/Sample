@@ -1,0 +1,7 @@
+streamlit
+numpy
+scipy
+matplotlib
+cryptography
+wfdb
+argon2-cffi
